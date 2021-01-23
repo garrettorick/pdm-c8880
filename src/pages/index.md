@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/Wood.jpg
+    background_image: images/Public_Domain_Logo-removebg-preview.png
     background_image_opacity: 80
     content: |+
       # Custom Made Items Straight to your Door
