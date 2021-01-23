@@ -6,12 +6,9 @@ sections:
     section_id: hero_section
     background_image: images/Wood.jpg
     background_image_opacity: 80
-    content: >
+    content: |+
       # Custom Made Items Straight to your Door
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
     actions:
       - title: See all items
         url: /store
