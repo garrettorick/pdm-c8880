@@ -3,7 +3,7 @@ title: About
 page_css_class: gray-background
 sections:
   - type: header_section
-    section_id: header_section
+    section_id: Public Domain Makers
     headline: We are Public Domain Makers
     subtitle: >
       We sell handcrafted items designed and made in Tennessee. We also also
