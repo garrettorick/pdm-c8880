@@ -4,7 +4,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: /images/leaf-light-grey.svg
+    background_image: images/Public_Domain_Logo-removebg-preview.png
     headline: We are Public Domain Makers
     subtitle: >
       We sell handcrafted items designed and made in Tennessee. We also also
