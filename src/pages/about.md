@@ -9,7 +9,8 @@ sections:
     subtitle: >
       We sell handcrafted items designed and made in Tennessee. We also also
       make custom-made items to order with your design. We can do this on any
-      products.
+      products. We try to be as responsive as possible, so feel free to reach
+      out if you have any questions or concerns.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
