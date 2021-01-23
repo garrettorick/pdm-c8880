@@ -20,7 +20,7 @@ sections:
           located in East Tennessee. The good news is, we ship to all 50 states,
           so order away!
         image: images/nan_talk.jpg
-      - title: We think plants are the future
+      - title: Custom Items
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
