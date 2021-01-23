@@ -15,15 +15,10 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: 'Based in Jacksboro, TN'
-        description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+        description: >
+          Most have probably never heard of Jacksboro as it is a small community
+          located in East Tennessee. The good news is, we ship to all 50 states,
+          so order away!
         image: images/nan_talk.jpg
       - title: We think plants are the future
         description: >-
